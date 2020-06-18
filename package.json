@@ -1,0 +1,15 @@
+{
+  "name": "telegramFeedBack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "iMakeBots.ru",
+  "license": "",
+  "dependencies": {
+    "https-proxy-agent": "^2.2.1",
+    "telegraf": "^3.38.0"
+  }
+}
